@@ -1,0 +1,8 @@
+speechrecognition
+pyttsx3
+wikipedia-api
+requests
+wolframalpha
+opencv-python
+googletrans==4.0.0-rc1
+# do install if i miss anything 
