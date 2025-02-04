@@ -10,7 +10,7 @@ from ecapture import ecapture as ec
 import wolframalpha
 import json
 import requests
-import random
+import random 
 from googletrans import Translator
 print('Loading your AI personal assistant - G One')
 engine=pyttsx3.init('sapi5')
